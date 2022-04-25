@@ -1,0 +1,34 @@
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe.config
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.pdb
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csprojResolveAssemblyReference.cache
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.MainForm.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csproj.GenerateResource.Cache
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.exe
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.pdb
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form1.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form4.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form2.resources
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe.config
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.pdb
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csprojAssemblyReference.cache
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form1.resources
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form2.resources
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form4.resources
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.MainForm.resources
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csproj.GenerateResource.cache
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.exe
+C:\Users\Nezih\source\repos\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.pdb
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe.config
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.exe
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Debug\Town Of Salem İnfov2.pdb
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csproj.AssemblyReference.cache
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form1.resources
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form2.resources
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.Form4.resources
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town_Of_Salem_İnfov2.MainForm.resources
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csproj.GenerateResource.cache
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.csproj.CoreCompileInputs.cache
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.exe
+E:\Dosyalar\C#\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Debug\Town Of Salem İnfov2.pdb

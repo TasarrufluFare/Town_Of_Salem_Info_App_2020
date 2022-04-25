@@ -1,0 +1,9 @@
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Release\Town Of Salem İnfov2.exe.config
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\bin\Release\Town Of Salem İnfov2.exe
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town Of Salem İnfov2.csprojResolveAssemblyReference.cache
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town_Of_Salem_İnfov2.MainForm.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town Of Salem İnfov2.csproj.GenerateResource.Cache
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town Of Salem İnfov2.exe
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town_Of_Salem_İnfov2.Form1.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town_Of_Salem_İnfov2.Form4.resources
+C:\Users\Soner\Documents\SharpDevelop Projects\Town Of Salem İnfov2\Town Of Salem İnfov2\obj\Release\Town_Of_Salem_İnfov2.Form2.resources
